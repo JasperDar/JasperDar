@@ -1,6 +1,6 @@
-# Hi, I'm Jasper
+# 👋 Hi, I'm Jasper
 
-I'm a Full-Stack developer based out of Belgium.
+A full-stack developer based out of Belgium
 
 ## Get in touch
 
